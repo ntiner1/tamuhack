@@ -20,7 +20,7 @@ baseurl: "/tamuhack" # the subpath of your site
 url: "https://ntiner1.github.io/tamuhack/"
 email: ntiner1@tamu.edu
 github_username:  ntiner1
-linkedin_username: ntiner1
+linkedin_username: ntiner1@tamu.edu
 twitter_username: ntiner1
 
 # Build settings
